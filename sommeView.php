@@ -4,6 +4,7 @@
     
     // calculer la somme 
      $s = $a + $b;
+
 ?>
 <!DOCTYPE html>
 <html lang="fr">
